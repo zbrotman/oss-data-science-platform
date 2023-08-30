@@ -1,0 +1,7 @@
+install proxmox on post 
+create non-root user
+setup ssh
+create vm image with cloud-init
+set up python on host 
+    install pipx with apt
+install terraform on local
